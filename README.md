@@ -10,13 +10,6 @@
 Telegram: @tolstDikar
 E-mail: eremin1988ma21@gmail.com
 
-### Languages and Tools:
-![React](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Vue](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![JavaScript](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Node.js®](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Webpack](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
 **Languages and Tools:**  
 
@@ -36,7 +29,7 @@ E-mail: eremin1988ma21@gmail.com
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereminmaksim&layout=compact)](https://github.com/ereminmaksim/github-readme-stats)
   
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ereminmaksim/github-readme-stats)
   
   
   
