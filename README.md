@@ -24,7 +24,7 @@ E-mail: eremin1988ma21@gmail.com
 
 <a href="https://github.com/ereminmaksim/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ereminmaksim&show_icons=true&include_all_commits=true&theme=radical"      
+<img align="center" src="https://github-readme-stats.ereminmaksim.vercel.app/api?username=ereminmaksim&show_icons=true&include_all_commits=true&theme=radical"      
 alt="ereminmaksim's github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereminmaksim&layout=compact)](https://github.com/ereminmaksim/github-readme-stats)
