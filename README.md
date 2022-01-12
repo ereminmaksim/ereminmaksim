@@ -28,8 +28,6 @@ E-mail: eremin1988ma21@gmail.com
 alt="ereminmaksim's github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereminmaksim&layout=compact)](https://github.com/ereminmaksim/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ereminmaksim/github-readme-stats)
   
   
   
