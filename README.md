@@ -7,7 +7,7 @@
 
 📫 How to reach me:
 
-Telegram: @tolstDikar
+Telegram: @eremin_maksim_official
 E-mail: eremin1988ma21@gmail.com
 
 
