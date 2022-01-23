@@ -3,8 +3,6 @@
 
 ![Header](https://github.com/ereminmaksim/ereminmaksim/blob/main/header/maksim_header.jpg)
 
-🌱 I’m currently learning web-development in Geekbrains
-
 📫 How to reach me:
 
 <h3 align="left">Connect with me:</h3>
