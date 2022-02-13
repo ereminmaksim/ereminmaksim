@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there+👋!)](https://git.io/typing-svg)
 
 
 ![Header](https://github.com/ereminmaksim/ereminmaksim/blob/main/header/maksim_header.jpg)
