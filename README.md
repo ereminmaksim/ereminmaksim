@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 ## 📫 How to reach me
 
 <p align="left">
@@ -28,8 +26,6 @@
   </a>
 </p>
 
----
-
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -38,8 +34,6 @@
     alt="Languages and Tools"
   />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
